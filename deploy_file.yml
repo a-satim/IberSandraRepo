@@ -1,0 +1,29 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: msibercajabook
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: ibercajapoc
+    spec:
+      containers:
+        - name: ibercajapoc
+          image: ibercajapoc.azure.io/v1_03-06-19
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+    name: msibercajapoc
+spec:
+  ports:
+    - name: http-port
+      port: 80
+      targetPort: 80
+  selector:
+    app: msibercajapoc  
+      type: LoadBalancer

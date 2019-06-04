@@ -1,0 +1,15 @@
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\bin\Debug\netcoreapp2.1\IbercajaPoC.deps.json
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\bin\Debug\netcoreapp2.1\IbercajaPoC.runtimeconfig.json
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\bin\Debug\netcoreapp2.1\IbercajaPoC.runtimeconfig.dev.json
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\bin\Debug\netcoreapp2.1\IbercajaPoC.dll
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.csprojAssemblyReference.cache
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.csproj.CoreCompileInputs.cache
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.RazorAssemblyInfo.cache
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.RazorAssemblyInfo.cs
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.AssemblyInfoInputs.cache
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.AssemblyInfo.cs
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.RazorTargetAssemblyInfo.cache
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\bin\Debug\netcoreapp2.1\IbercajaPoC.pdb
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.dll
+C:\Users\a-satim\source\repos\IbercajaPoC\IbercajaPoC\obj\Debug\netcoreapp2.1\IbercajaPoC.pdb
